@@ -9,3 +9,5 @@ To use, run from your command prompt following the format below:
 If files are not located in current directory, the relative file path must be provided.
 
 For convenience, `-ns` may be used in place of `-nostrip`, and `-f` in place of `-file`.
+
+Note: This program was made mainly for use on text files.
